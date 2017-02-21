@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SharpMobileCode.ModalPicker</id>
+    <version>1.0.0.0</version>
+    <title>SharpMobileCode.ModalPicker</title>
+    <authors>Holycode</authors>
+    <owners>Holycode</owners>
+    <iconUrl>http://holy.co.de/wp-content/uploads/2016/01/ico-64x64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Picker control for IOS</description>
+    <releaseNotes>Picker control for IOS</releaseNotes>
+    <copyright>Copyright 2017 Holycode</copyright>
+  </metadata>
+    <files>	
+	<!-- Xamarin for iOS -->
+	<file src="\bin\Release\SharpMobileCode.ModalPicker.dll" target="lib\xamarinios10" />
+	
+  </files>
+</package>
